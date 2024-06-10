@@ -1,6 +1,4 @@
-# README
-
-## Multi-Task BERT Model for Sentiment Analysis and Classification
+# Multi-Task BERT Model for Sentiment Analysis and Classification
 
 This repository contains implementations of a multi-task BERT model for sentiment analysis and classification. The model is capable of performing two tasks simultaneously: predicting the sentiment of a movie review (positive, negative, or neutral) and classifying the sentence into predefined numerical categories.
 
